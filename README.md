@@ -23,7 +23,7 @@ Compression of files using Huffman and LZW algorithms in c programming language.
     $ ./program -(c1/c2/uc1/uc2) inputfile outputfile
     ```
 
-(c1 - Huffman compression c2 - LZW compression uc1 - Huffman decompress uc2 - LZW decompression.)
+* (c1 - Huffman compression c2 - LZW compression uc1 - Huffman decompress uc2 - LZW decompression.)
 
 * For compression input file must be in utf-8
 
